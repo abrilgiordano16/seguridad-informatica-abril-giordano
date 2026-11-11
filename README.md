@@ -1,5 +1,5 @@
-Seguridad Informática
-## Datos del estudiante
+## Seguridad Informática
+ Datos del estudiante
 - Nombre y apellido: Abril Giordano
 - Curso: 6°
 - Materia: Desarrollo de soluciones informaticas
@@ -96,7 +96,7 @@ Parte C - Seguridad en una escuela
 
 Los datos de los alumnos los guardaríamos en un lugar seguro y solo podrían verlos las personas que realmente los necesitan, como directivos o secretaría. Cada una tendría su propio usuario y contraseña. Además, no se publicarían datos ni fotos de los estudiantes sin permiso.
 
-### 4. Cinco reglas de seguridad informática para toda la escuela
+4. Cinco reglas de seguridad informática para toda la escuela
 
 1. No compartir las contraseñas con nadie.
 2. No abrir links ni archivos raros.
