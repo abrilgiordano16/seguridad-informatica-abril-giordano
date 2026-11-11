@@ -1,8 +1,9 @@
 Seguridad Informática
-Datos del estudiante
-Nombre y apellido: Abril Giordano
-Curso: 6° 
-Materia: Desarrollo de soluciones informaticas
+## Datos del estudiante
+- Nombre y apellido: Abril Giordano
+- Curso: 6°
+- Materia: Desarrollo de soluciones informaticas
+
 Parte A - Investigación
 
 1. ¿Qué es la seguridad informática y cuál es su importancia?
@@ -95,9 +96,10 @@ Parte C - Seguridad en una escuela
 
 Los datos de los alumnos los guardaríamos en un lugar seguro y solo podrían verlos las personas que realmente los necesitan, como directivos o secretaría. Cada una tendría su propio usuario y contraseña. Además, no se publicarían datos ni fotos de los estudiantes sin permiso.
 
-4. Cinco reglas de seguridad informática para toda la escuela
-No compartir las contraseñas con nadie.
-No abrir links ni archivos raros.
-No instalar programas sin permiso.
-Cerrar la sesión cuando terminamos de usar una compu.
-Avisar a un docente o directivo si pasa algo raro en la computadora o en una cuenta.
+### 4. Cinco reglas de seguridad informática para toda la escuela
+
+1. No compartir las contraseñas con nadie.
+2. No abrir links ni archivos raros.
+3. No instalar programas sin permiso.
+4. Cerrar la sesión cuando terminamos de usar una compu.
+5. Avisar a un docente o directivo si pasa algo raro en la computadora o en una cuenta.
