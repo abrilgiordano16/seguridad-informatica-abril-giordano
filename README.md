@@ -1,9 +1,10 @@
-## Seguridad Informática
-|Datos del estudiante
+# Seguridad Informática
 
-|Nombre y apellido: Abril Giordano
-|Curso: 6°
-|Materia: Desarrollo de soluciones informaticas
+## Datos del estudiante
+
+- **Nombre y apellido:** Abril Giordano
+- **Curso:** 6°
+- **Materia:** Desarrollo de Soluciones Informáticas
 
 ## Parte A - Investigación
 
@@ -31,7 +32,8 @@ El White Hat busca fallas en los sistemas con permiso para ayudar a arreglarlas 
 8. ¿Por qué es importante realizar copias de seguridad?
 Porque si se pierden los archivos por un ataque, una falla de la compu o un error nuestro, los podemos recuperar de la copia. Así no perdemos trabajos ni información importante.
 
-## Parte B - Análisis de situaciones Situación 1: El correo sospechoso
+## Parte B - Análisis de situaciones 
+Situación 1: El correo sospechoso
 
 a. ¿Qué amenaza informática podría estar presente?
 
