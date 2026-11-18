@@ -1,36 +1,37 @@
-Seguridad Informática
-Datos del estudiante
+## Seguridad Informática
+|Datos del estudiante
 
-Nombre y apellido: Abril Giordano
-Curso: 6°
-Materia: Desarrollo de soluciones informaticas
-Parte A - Investigación
+|Nombre y apellido: Abril Giordano
+|Curso: 6°
+|Materia: Desarrollo de soluciones informaticas
 
-¿Qué es la seguridad informática y cuál es su importancia?
+## Parte A - Investigación
+
+1. ¿Qué es la seguridad informática y cuál es su importancia?
 Es todo lo que hacemos para cuidar nuestros dispositivos, redes y datos de personas que quieren robarlos, dañarlos o entrar sin permiso. Es importante porque hoy casi todo lo nuestro está en el celular o en la compu (fotos, cuentas, trabajos del cole) y si alguien lo consigue puede hacernos mucho daño.
 
-¿Qué significan los principios de confidencialidad, integridad y disponibilidad?
+2. ¿Qué significan los principios de confidencialidad, integridad y disponibilidad?
 Confidencialidad quiere decir que solo pueden ver la información las personas que tienen permiso. Integridad es que nadie pueda cambiar o borrar los datos sin autorización, por ejemplo las notas. Disponibilidad es que los sistemas funcionen cuando los necesitamos, como la plataforma de la escuela.
 
-¿Cuál es la diferencia entre virus, malware y ransomware?
+3. ¿Cuál es la diferencia entre virus, malware y ransomware?
 Malware es el nombre que se le da a cualquier programa hecho para hacer daño, espiar o robar datos. El virus es un tipo de malware que se mete en los archivos y se copia solo. El ransomware es otro tipo que bloquea los archivos y pide plata para devolverlos.
 
-¿Qué es el phishing? ¿Cómo podemos reconocerlo?
+4. ¿Qué es el phishing? ¿Cómo podemos reconocerlo?
 Es una estafa en la que mandan mensajes, mails o páginas falsas para que uno ponga sus contraseñas o datos del banco. Se puede reconocer porque te apuran para actuar, el mensaje tiene errores, el que lo manda es raro y te pide entrar a un link. Lo mejor es no tocar nada y entrar a la página oficial escribiendo la dirección vos mismo.
 
-¿Qué es la ingeniería social?
+5. ¿Qué es la ingeniería social?
 Es cuando alguien engaña a una persona para que le dé información o haga algo que no debería. No ataca a la computadora sino a la persona, por ejemplo cuando alguien dice que es de soporte técnico y te pide la contraseña.
 
-¿Qué características debe tener una contraseña segura?
+6. ¿Qué características debe tener una contraseña segura?
 Tiene que ser larga (14 caracteres o más), distinta para cada cuenta y difícil de adivinar, o sea sin nombres, fechas de cumpleaños ni datos personales. Tampoco hay que compartirla y es mejor usarla con la verificación en dos pasos.
 
-¿Qué diferencia existe entre un hacker White Hat y un Black Hat?
+7. ¿Qué diferencia existe entre un hacker White Hat y un Black Hat?
 El White Hat busca fallas en los sistemas con permiso para ayudar a arreglarlas y mejorar la seguridad. El Black Hat usa esas fallas sin permiso para hacer cosas ilegales o dañinas. La diferencia está en tener autorización y en lo que quiere lograr cada uno.
 
-¿Por qué es importante realizar copias de seguridad?
+8. ¿Por qué es importante realizar copias de seguridad?
 Porque si se pierden los archivos por un ataque, una falla de la compu o un error nuestro, los podemos recuperar de la copia. Así no perdemos trabajos ni información importante.
 
-Parte B - Análisis de situaciones Situación 1: El correo sospechoso
+## Parte B - Análisis de situaciones Situación 1: El correo sospechoso
 
 a. ¿Qué amenaza informática podría estar presente?
 
@@ -98,3 +99,35 @@ Los datos de los alumnos los guardaríamos en un lugar seguro y solo podrían ve
 4. Cerrar la sesión cuando terminamos de usar una compu.
 
 5. Avisar a un docente o directivo si pasa algo raro en la computadora o en una cuenta.
+
+## Parte D - Producción propia
+
+# 🛡️ Navegar seguros también depende de nosotros
+
+ a. Título y eslogan
+
+**Título:** Navegar seguros también depende de nosotros.
+
+**Eslogan:** "Cuidá tus datos, protegé tu identidad y navegá con responsabilidad".
+
+ b. Cinco recomendaciones para navegar de forma segura
+
+1. **Usar contraseñas seguras:** Crear contraseñas difíciles de adivinar y no compartirlas con otras personas.
+2. **No abrir enlaces sospechosos:** Evitar hacer clic en mensajes o archivos de remitentes desconocidos.
+3. **Proteger los datos personales:** No publicar información privada, como direcciones, teléfonos o contraseñas.
+4. **Visitar sitios confiables:** Comprobar que las páginas sean seguras antes de ingresar información personal.
+5. **Mantener los dispositivos actualizados:** Instalar las actualizaciones para mejorar la seguridad.
+
+c. Advertencia sobre una amenaza informática
+
+⚠️ **¡Cuidado con el phishing!**
+
+El phishing es una técnica utilizada por ciberdelincuentes para engañar a las personas mediante mensajes o páginas falsas y robar sus datos personales y contraseñas.
+
+Nunca compartas información privada ni ingreses a enlaces sospechosos.
+
+d. Reflexión final
+
+Internet es una herramienta muy útil para estudiar, comunicarnos y entretenernos, pero también tiene riesgos. Por eso, debemos aprender a proteger nuestra información y navegar responsablemente. Cuidar nuestros datos es cuidar nuestra identidad y nuestra seguridad.
+
+**¡Pensá antes de hacer clic! La seguridad en Internet depende de todos.** 🔐
